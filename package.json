@@ -1,0 +1,47 @@
+{
+  "name": "localediff",
+  "version": "0.1.0",
+  "description": "Find drift between i18n locale files — missing keys, CLDR-aware plural gaps, empty values. Framework-agnostic, zero dependencies.",
+  "bin": {
+    "localediff": "bin/cli.js"
+  },
+  "main": "src/core.js",
+  "scripts": {
+    "test": "node --test"
+  },
+  "keywords": [
+    "i18n",
+    "l10n",
+    "locale",
+    "translation",
+    "missing-translations",
+    "drift",
+    "diff",
+    "i18next",
+    "next-intl",
+    "react-intl",
+    "vue-i18n",
+    "cli",
+    "ci",
+    "linter",
+    "pluralization"
+  ],
+  "files": [
+    "bin",
+    "src",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jjdoor/localediff.git"
+  },
+  "homepage": "https://github.com/jjdoor/localediff#readme",
+  "bugs": {
+    "url": "https://github.com/jjdoor/localediff/issues"
+  }
+}

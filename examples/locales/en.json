@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "My App",
+    "tagline": "Ship faster"
+  },
+  "auth": {
+    "login": "Log in",
+    "logout": "Log out",
+    "errors": {
+      "invalid": "Invalid credentials",
+      "locked": "Account locked"
+    }
+  },
+  "cart": {
+    "items_one": "{{count}} item",
+    "items_other": "{{count}} items"
+  },
+  "footer": {
+    "copyright": "© 2026 Acme"
+  }
+}

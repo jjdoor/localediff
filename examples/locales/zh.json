@@ -1,0 +1,20 @@
+{
+  "app": {
+    "title": "我的应用",
+    "tagline": "更快发布"
+  },
+  "auth": {
+    "login": "登录",
+    "logout": "退出登录",
+    "errors": {
+      "invalid": "凭证无效",
+      "locked": "账户已锁定"
+    }
+  },
+  "cart": {
+    "items_other": "{{count}} 件商品"
+  },
+  "footer": {
+    "copyright": "© 2026 Acme"
+  }
+}

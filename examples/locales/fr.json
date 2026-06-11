@@ -1,0 +1,22 @@
+{
+  "app": {
+    "title": "Mon application",
+    "tagline": "Livrez plus vite"
+  },
+  "auth": {
+    "login": "Se connecter",
+    "logout": "Se déconnecter",
+    "errors": {
+      "invalid": "Identifiants invalides"
+    }
+  },
+  "cart": {
+    "items_other": "{{count}} articles"
+  },
+  "footer": {
+    "copyright": ""
+  },
+  "legacy": {
+    "banner": "Ancien texte"
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "app": {
+    "title": "Моё приложение",
+    "tagline": "Выпускайте быстрее"
+  },
+  "auth": {
+    "login": "Войти",
+    "logout": "Выйти",
+    "errors": {
+      "invalid": "Неверные данные",
+      "locked": "Аккаунт заблокирован"
+    }
+  },
+  "cart": {
+    "items_one": "{{count}} товар",
+    "items_other": "{{count}} товара"
+  },
+  "footer": {
+    "copyright": "© 2026 Acme"
+  }
+}
